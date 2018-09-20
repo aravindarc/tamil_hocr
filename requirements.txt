@@ -1,0 +1,17 @@
+click
+flask
+h5py
+itsdangerous
+Jinja2
+Keras
+Keras-Applications
+Keras-Preprocessing
+MarkupSafe
+numpy
+opencv-python
+Pillow
+PyYAML
+scipy
+six
+Theano
+tensorflow
